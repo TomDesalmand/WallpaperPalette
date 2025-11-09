@@ -179,6 +179,8 @@ Example workflow:
 
 3. Adjust settings via the status bar menu.
 
+4. If you want to access the generated palette, it is located in /tmp/wallpaper-palette/current-palette.json
+
 ---
 
 ## Development notes
